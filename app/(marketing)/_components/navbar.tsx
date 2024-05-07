@@ -15,7 +15,7 @@ export const Navbar = () => {
                     </Button>
                     <Button size="sm" asChild>
                     <Link href="/sign-up">
-                        Get TaskFlow for free
+                        Sign Up
                     </Link>
                     </Button>
 
